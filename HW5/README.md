@@ -1,1 +1,1 @@
-
+I, Amanda Swenson went solo on this HW, although I did get some assistance on the plotting portions of this HW assignment from Grok, as well as the train test portion. The prompt I developed is in the notebook.
