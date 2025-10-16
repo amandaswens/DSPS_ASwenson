@@ -1,1 +1,1 @@
-I, Amanda Swenson got amount of help from Ashton Southwick and assistance from Grok (for syntax and plots) on this assignment. 
+I, Amanda Swenson worked collaboratively with Ashton Southwick on this assignment and also got some assistance from Grok (syntax and plots). 
