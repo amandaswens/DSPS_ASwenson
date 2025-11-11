@@ -1,3 +1,3 @@
 1. I decided to improve the comparison of linear regression models plot made in HW #5. Although there wasn't much to change, I wanted to see if I could reduce a bit of the cluttering with the points. So, what I changed here was I made the figure a bit bigger. Specifically, I stretched out the horizontial axis to allow for a bit more room between each point so they are more decernible. I also changed the colors (not that it's that noticble), that way the regression lines are a bit more visible. Finally, I changed the axes' labels to clarify the units of Log time as well as explain the significance of the magnitude.   
 2. ![Bad plot](https://files.slack.com/files-pri/T05NWLEESS1-F09S12TGN14/screenshot_2025-11-10_at_7.55.50___pm.png)
-![Good plot](https://files.slack.com/files-pri/T05NWLEESS1-F09S12TGN14/screenshot_2025-11-10_at_7.55.50___pm.png)
+![Good plot](https://files.slack.com/files-pri/T05NWLEESS1-F09RMNQD5HD/image.png)
