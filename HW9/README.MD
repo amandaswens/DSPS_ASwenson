@@ -4,7 +4,7 @@ Note: I couldn't figure out how to display the plots within the readme, so I jus
 2. I believe the good plot fits the criteria because it uses clear encoding (e.g. axes) as well as effective color encoding to highlight the different stellar masses in the HR diagram. The bad plot, however, is lacking clear axes labels (like H(gauss)...not very clear). Also, its just visually cluttered. Maybe it is more of a personal thing, but I think the plots within a plot is unecessarily complex. In addition, a there is no title included in this plot.
 To improve upon the bad plot, I would alter the axes so they are more clear - what exactly is H(guass)? I would also include a title, and then probably remove the (a), (b), and (c) plots and make them into entirely new figures with sufficent captions that way readers know they correlate to the original plot!
 
-1. ![Good plot](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/good_plot.jpeg)
+Good plot: ![Good plot](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/good_plot.jpeg)
 
-2. ![Bad plot]()
+Bad plot: ![Bad plot](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/bad_plot.gif)
 
