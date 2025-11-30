@@ -1,10 +1,14 @@
-Note: I couldn't figure out how to display the plots within the readme, so I just uploaded them to the HW9 folder with appropriate file names.
+**Part #1:**
 
-1. I decided to improve the comparison of linear regression models plot made in HW #5. Although there wasn't much to change, I wanted to see if I could reduce a bit of the cluttering with the points. So, what I changed here was I made the figure a bit bigger. Specifically, I stretched out the horizontial axis to allow for a bit more room between each point so they are more decernible. I also changed the colors (not that it's that noticble), that way the regression lines are a bit more visible. Finally, I changed the axes' labels to clarify the units of Log time as well as explain the significance of the magnitude.   
-2. I believe the good plot fits the criteria because it uses clear encoding (e.g. axes) as well as effective color encoding to highlight the different stellar masses in the HR diagram. The bad plot, however, is lacking clear axes labels (like H(gauss)...not very clear). Also, its just visually cluttered. Maybe it is more of a personal thing, but I think the plots within a plot is unecessarily complex. In addition, a there is no title included in this plot.
-To improve upon the bad plot, I would alter the axes so they are more clear - what exactly is H(guass)? I would also include a title, and then probably remove the (a), (b), and (c) plots and make them into entirely new figures with sufficent captions that way readers know they correlate to the original plot!
+Revised plot: ![Revised](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/revised_plot.png)
+Original plot: ![Original](https://github.com/amandaswens/DSPS_ASwenson/blob/main/HW9/unrevised_plot.png)
+
+I decided to improve the comparison of linear regression models plot made in HW #5. Although there wasn't much to change, I wanted to see if I could reduce a bit of the cluttering with the points. So, what I changed here was I made the figure a bit bigger. Specifically, I stretched out the horizontial axis to allow for a bit more room between each point so they are more decernible. I also changed the colors (not that it's that noticble), that way the regression lines are a bit more visible. Finally, I changed the axes' labels to clarify the units of Log time as well as explain the significance of the magnitude.   
+
+**Part #2:**
 
 Good plot: ![Good plot](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/good_plot.jpeg)
-
 Bad plot: ![Bad plot](https://raw.githubusercontent.com/amandaswens/DSPS_ASwenson/refs/heads/main/HW9/bad_plot.gif)
 
+I believe the good plot fits the criteria because it uses clear encoding (e.g. axes) as well as effective color encoding to highlight the different stellar masses in the HR diagram. The bad plot, however, is lacking clear axes labels (like H(gauss)...not very clear). Also, its just visually cluttered. Maybe it is more of a personal thing, but I think the plots within a plot is unecessarily complex. In addition, a there is no title included in this plot.
+To improve upon the bad plot, I would alter the axes so they are more clear - what exactly is H(guass)? I would also include a title, and then probably remove the (a), (b), and (c) plots and make them into entirely new figures with sufficent captions that way readers know they correlate to the original plot!
